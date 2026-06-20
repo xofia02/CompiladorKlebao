@@ -1,0 +1,77 @@
+Código da Equipe: EQ05
+Componentes:
+Cauã Maia de Brito; caua.brito@ucsal.edu.br; 71 992072006
+João Pedro Santana Sousa; joaopedrosantana.sousa@ucsal.edu.br; 71 983418181
+Sofia Santos de Mendonça; sofia.mendonca@ucsal.edu.br; 11 989321746
+Geraldo Manoel de Lima Alencar; geraldo.alencar@ucsal.edu.br; 71 992741706
+
+               RELATÓRIO DA TABELA DE SÍMBOLOS.
+               Texto fonte analisado: Teste.261
+
+Entrada: 1, Código: C01, Lexeme: TESTE1,
+QtdCharsAntesTrunc: 6, QtdCharDepoisTrunc: 6,
+TipoSimb: -, Linhas: (1).
+----------------------------------------------------------------
+Entrada: 2, Código: C01, Lexeme: IDADE,
+QtdCharsAntesTrunc: 5, QtdCharDepoisTrunc: 5,
+TipoSimb: -, Linhas: (3, 9, 13).
+----------------------------------------------------------------
+Entrada: 3, Código: C01, Lexeme: ANONASCIMENTO,
+QtdCharsAntesTrunc: 13, QtdCharDepoisTrunc: 13,
+TipoSimb: -, Linhas: (3).
+----------------------------------------------------------------
+Entrada: 4, Código: C01, Lexeme: ALTURA,
+QtdCharsAntesTrunc: 6, QtdCharDepoisTrunc: 6,
+TipoSimb: -, Linhas: (4, 12).
+----------------------------------------------------------------
+Entrada: 5, Código: C01, Lexeme: NOME,
+QtdCharsAntesTrunc: 4, QtdCharDepoisTrunc: 4,
+TipoSimb: -, Linhas: (5, 11).
+----------------------------------------------------------------
+Entrada: 6, Código: C01, Lexeme: CALCULAR,
+QtdCharsAntesTrunc: 8, QtdCharDepoisTrunc: 8,
+TipoSimb: -, Linhas: (8).
+----------------------------------------------------------------
+Entrada: 7, Código: C01, Lexeme: X,
+QtdCharsAntesTrunc: 1, QtdCharDepoisTrunc: 1,
+TipoSimb: -, Linhas: (8, 9, 18).
+----------------------------------------------------------------
+Entrada: 8, Código: C06, Lexeme: 10,
+QtdCharsAntesTrunc: 2, QtdCharDepoisTrunc: 2,
+TipoSimb: IN, Linhas: (9).
+----------------------------------------------------------------
+Entrada: 9, Código: C06, Lexeme: 2,
+QtdCharsAntesTrunc: 1, QtdCharDepoisTrunc: 1,
+TipoSimb: IN, Linhas: (9).
+----------------------------------------------------------------
+Entrada: 10, Código: C04, Lexeme: "JOAO DA SILVA",
+QtdCharsAntesTrunc: 15, QtdCharDepoisTrunc: 15,
+TipoSimb: ST, Linhas: (11).
+----------------------------------------------------------------
+Entrada: 11, Código: C07, Lexeme: 1.75,
+QtdCharsAntesTrunc: 4, QtdCharDepoisTrunc: 4,
+TipoSimb: FP, Linhas: (12).
+----------------------------------------------------------------
+Entrada: 12, Código: C06, Lexeme: 18,
+QtdCharsAntesTrunc: 2, QtdCharDepoisTrunc: 2,
+TipoSimb: IN, Linhas: (13).
+----------------------------------------------------------------
+Entrada: 13, Código: C04, Lexeme: "MAIOR",
+QtdCharsAntesTrunc: 7, QtdCharDepoisTrunc: 7,
+TipoSimb: ST, Linhas: (14).
+----------------------------------------------------------------
+Entrada: 14, Código: C04, Lexeme: "MENOR",
+QtdCharsAntesTrunc: 7, QtdCharDepoisTrunc: 7,
+TipoSimb: ST, Linhas: (16).
+----------------------------------------------------------------
+Entrada: 15, Código: C01, Lexeme: ESTAEHUMAVARIAVELCOMMAISDETRIN,
+QtdCharsAntesTrunc: 42, QtdCharDepoisTrunc: 30,
+TipoSimb: -, Linhas: (20).
+----------------------------------------------------------------
+Entrada: 16, Código: C06, Lexeme: 5,
+QtdCharsAntesTrunc: 1, QtdCharDepoisTrunc: 1,
+TipoSimb: IN, Linhas: (20).
+----------------------------------------------------------------
+Entrada: 17, Código: C01, Lexeme: ESTE,
+QtdCharsAntesTrunc: 4, QtdCharDepoisTrunc: 4,
+TipoSimb: -, Linhas: (21).

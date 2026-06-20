@@ -1,0 +1,21 @@
+program teste1
+declarations
+varType integer : idade, anoNascimento
+varType real : altura
+varType string : nome
+/* este e um comentario
+de bloco com varias linhas */
+funcType integer : calcular ( paramType integer : x )
+   x := idade + 10 * 2
+   // comentario de linha aqui
+   nome := "Joao da Silva"
+   altura := 1.75
+   if ( idade >= 18 )
+      print "maior"
+   else
+      print "menor"
+   endIf
+   return x
+endFunction
+estaEhUmaVariavelComMaisDeTrintaCaracteres := 5
+este@#
